@@ -6,8 +6,8 @@ def assign_variable(value)
   name = value
 end
 
-def argue
-  return argue
+def argue(str)
+  return str
 end
 
 def greeting
@@ -22,6 +22,6 @@ def last_evaluated_value
   return "expert"
 end
 
-def pizza_party
+def pizza_party()
   "cheese"
 end
